@@ -1,0 +1,17 @@
+.list-group {
+    padding: 10px;
+    background: #F3DE2C;
+    list-style-type: none;
+    font-weight: bold;
+}
+
+li {
+    margin: 5px;
+}
+
+.eat-btn {
+    float: right;
+    color:#3CB0EA;
+    
+}
+
